@@ -1,0 +1,3 @@
+Download the gentelella front-end application https://github.com/ColorlibHQ/gentelella
+Replace the production folder with ours.
+Upload the SQL file to MYSQL XAMPP 
